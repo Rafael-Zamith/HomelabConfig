@@ -1,3 +1,5 @@
+#!/bin/bash
+
 CONF_DIR="/run/dnsmasq.dhcp.conf.d"
 CONF_FILE="$CONF_DIR/tailscale0.conf"
 
